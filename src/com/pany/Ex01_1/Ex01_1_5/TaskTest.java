@@ -1,3 +1,5 @@
+package com.pany.Ex01_1_5;
+
 import static org.junit.Assert.*;
 
 /**
